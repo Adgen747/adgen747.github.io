@@ -1,8 +1,9 @@
 img{max-width: 100%;}
 img:hover{border-radius: 2%}
-p{height: 1000px;color: blue}
-a{text-decoration: none}
+p{height: 10px;color: blue}
+a{color: black}
 a:link{color:black}
-a:visited{color: blue}
+a:visited{color: blue;font-weight: bold;
+    text-decoration:none}
 a:hover{color: orange}
 a:active{color:green}
