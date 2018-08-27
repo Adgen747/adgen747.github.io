@@ -1,5 +1,6 @@
 h1{color: gold}
-img{border: solid green 2px}
+img{max-width: 300px;
+	border: solid gold 2px}
 img:hover{border-radius: 7%}
 p{height: 10px;color: blue}
 a{color: black}
