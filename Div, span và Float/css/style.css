@@ -1,9 +1,19 @@
 h1{font-size: 24px}
+<<<<<<< HEAD
 #main-menu a{font-size: 20px; color: #737373;text-decoration: none}
+=======
+#main-menu{padding: 30px}
+#main-menu a{padding: 30px; font-size: 20px; color: #737373;text-decoration: none}
+>>>>>>> ba5d27fa96d784dce345ea0e72ab10012641ca70
 #main-menu a:hover, #main-menu a.active{color: black}
 #main-menu a.active{font-weight: bold;}
 img {max-width: 100%;max-height: 300px}
 .box{float: left;
+<<<<<<< HEAD
+=======
+	padding: 10px;
+	margin: 3px;
+>>>>>>> ba5d27fa96d784dce345ea0e72ab10012641ca70
      width: 30%;
 	 border: 1px solid #dddddd;
 	 border-top-width: 5px }
