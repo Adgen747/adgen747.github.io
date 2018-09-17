@@ -25,18 +25,17 @@ body {
 }
 
 header {
-	margin-top: 1%;
-	border: 2px solid #616161;
-	border-radius: 0px;
+	margin-top: 2%;
+	
 	animation: anim_header 0.8s ease;
 }
 h2 {
-	font-size: 1.25em;
+	font-size: 1.5em;
 }
 
 h4 {
 	padding-top: 1%;
-	font-size: 0.9em;
+	font-size: 1em;
 	font-family: Exo, sans-serif;
 	color: #4E342E;
 }
@@ -71,14 +70,14 @@ h4 {
 .wrapper {
     width:100%;
     box-shadow:0px 1px 3px rgba(0,0,0,0.2); 
-    background:lightblue;
+   
 }
  
 /*----- Phần menu -----*/
 .menu {
     width:1000px;
     margin:0px auto;
-    background:#bf5c71;
+    background:#00cccc;
     height: 43px;
     margin-top: 0px;
 }
@@ -98,7 +97,7 @@ h4 {
 } 
 .menu .arrow {
     font-size:11px;
-    line-height:0%;
+    line-height:10%;
 } 
 /*----- css cho phần menu cha -----*/
 .menu > ul > li {

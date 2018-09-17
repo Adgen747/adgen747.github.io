@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
     box-sizing: border-box;
 }
@@ -62,39 +62,4 @@ img {max-width:100%; max-height:100%}
 #corner_arrow {
     position:fixed;
     right:30px;bottom:30px;}
-=======
-* {
-    box-sizing: border-box;
-}
-h1{color: green;
-	text-transform: uppercase;
-	text-align: center;
-	font-size: 40px}
 
-.wrap{
-	max-width: 1000px;margin: auto;}
-p{font-family: Open Sans Condensed, sans-serif;
-	text-align: center;
-	font-size: 1.5vmax;
-	padding: 0.1%;}
-.banner{text-align:center;text-transform: uppercase; }	
-.banner a{font-size: 25px;
-	text-decoration:none; 
-	padding-left: 40px;
-	padding-right: 40px;}
-.banner a:hover{color: #ffffff;
-	background-color: rgb(0, 176, 243);}	
-.image {
-	float: left;
-	width: 33%;
-	height: 33%;
-	padding: 0.7%;
-}
-
-.image:hover {
-	background-color: #9ed0ed;
-}
-.image img {
-	width: 1000px; height:300px}
-img {max-width:100%; max-height:100%}
->>>>>>> ba5d27fa96d784dce345ea0e72ab10012641ca70
